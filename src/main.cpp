@@ -155,6 +155,7 @@ void input()
 
 void fail()
 { //Function used if the player fails to match the sequence
+  //TODO: add current scores
   display.firstPage();
   do
   {
